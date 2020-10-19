@@ -1,5 +1,5 @@
-# Ml_2020_Assagnment1 :
-Ml 2020 Assagnment 1
+# Ml_2020_Assignment1 :
+Ml 2020 Assignment 1
 
 
 ## objective of your chatbot :
