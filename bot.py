@@ -245,23 +245,3 @@ bot()
 
 
 
-
-
-
-
-# def food_to_eat():
-#         print("The foods which you can intake if you are suffering from Type 1 Diabetes are Brown rice, Whole Wheat, Fruits, Vegetables, Lentils, Sprouts, Beets and etc...")
-#     def food_to_avoid():
-#         print("The foods which you should not intake if you are suffering from Type 1 Diabetes are Sodas, White Bread, Chips, Fried Foods, Refined Grains, Juice Drinks and etc...")
-#     def print_food():
-#         option = print_food()
-#         while option != 3:
-#             if option==1:
-#                 food_to_eat()
-#             elif option==2:
-#                 food_to_avoid()
-#             else:
-#                 return "Sorry"
-#             option=type1_diabetes()
-
-
